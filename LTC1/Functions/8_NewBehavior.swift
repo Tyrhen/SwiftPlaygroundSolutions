@@ -1,12 +1,13 @@
-moveForward()
-moveForward()
-moveForward()
+for i in 1...3{
+    moveForward()
+}
 
-turnLeft()
-turnLeft()
-turnLeft()
+for i in 1...3{
+    turnLeft()
+}
 
-moveForward()
-moveForward()
-moveForward()
+for i in 1...3{
+    moveForward()
+}
+
 collectGem()
