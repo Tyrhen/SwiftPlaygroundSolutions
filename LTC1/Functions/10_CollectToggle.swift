@@ -7,10 +7,8 @@ func gemSwitch(){
 }
 
 gemSwitch()
-
 moveForward()
 turnLeft()
-
 gemSwitch()
 
 moveForward()
@@ -18,8 +16,6 @@ moveForward()
 turnLeft()
 
 gemSwitch()
-
 moveForward()
 turnLeft()
-
 gemSwitch()
