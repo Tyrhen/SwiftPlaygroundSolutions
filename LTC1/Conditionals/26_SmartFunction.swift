@@ -1,4 +1,5 @@
 func collectOrToggle(){
+    //decision tree for collecting or toggling
     for i in range 1...2{
         moveForward()
         moveForward()
